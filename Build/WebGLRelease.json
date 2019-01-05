@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Roll-a-Ball",
+"productName": "Hungry Turtle",
 "dataUrl": "WebGLRelease.data.unityweb",
 "wasmCodeUrl": "WebGLRelease.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGLRelease.wasm.framework.unityweb",
